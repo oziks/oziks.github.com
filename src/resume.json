@@ -6,7 +6,7 @@
     "email": "brunot.morgan@gmail.com",
     "phone": "0778142732",
     "website": "",
-    "summary": "Développeur full-stack de plus de 8 ans d’expérience, passionné par l’écosystème JavaScript. Je mets mes compétences au service de l’humain. Aujourd’hui, j’aspire à travailler sur un produit innovant avec une équipe enthousiaste. Je suis très attaché à la conception centré sur l’utilisateur et à la durabilité du code.",
+    "summary": "Développeur full-stack de plus de 8 ans d’expérience, passionné par l’écosystème JavaScript. Je mets mes compétences au service de l’humain. Aujourd’hui, j’aspire à travailler sur un produit innovant avec une équipe enthousiaste. Je suis très attaché à la conception centrée sur l’utilisateur et à la durabilité du code.",
     "location": {
       "address": "23 Rue Des Belles Ecuelles",
       "postalCode": "13002",
@@ -62,7 +62,7 @@
       "highlights": [
         "En charge de la refonte du site en React (<a href='https://www.betaseries.com/'>BetaSeries</a>).",
         "Développement de l’application officielle BetaSeries (Android/iOS) en React Native.",
-        "Création d’une l’API REST et du frontend de la plateforme B2B de statistiques&nbsp;(<a href='https://insights.betaseries.com/'>BetaSeries Insights</a>)."
+        "Création d’une API REST et du frontend de la plateforme B2B de statistiques&nbsp;(<a href='https://insights.betaseries.com/'>BetaSeries Insights</a>)."
       ]
     },
     {
@@ -74,7 +74,7 @@
       "summary": "",
       "highlights": [
         "En mission chez M6Web dans la Team Cytron.",
-        "J'ai participé à la création d'API Rest en Symfony destinées au second écran M6.",
+        "J'ai participé à la création d'API REST en Symfony destinées au second écran M6.",
         "J'ai par la suite travaillé sur des applications Single Page App en AngularJS (frontend de <a href='https://fr.wikipedia.org/wiki/Rising_Star_(France)'>Rising Star</a>) et React (<a href='https://www.6play.fr/'>6play</a>)."
       ]
     },
