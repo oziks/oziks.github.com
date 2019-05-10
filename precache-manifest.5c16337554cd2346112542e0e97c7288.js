@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/Lora-Bold.eb2b8c98.ttf"
   },
   {
-    "revision": "2723c6fa031f12cc186b",
-    "url": "/static/js/main.b4f07cc8.chunk.js"
+    "revision": "81e4337d61ee205045b8",
+    "url": "/static/js/main.585f5a13.chunk.js"
   },
   {
     "revision": "4caca27050368290f0bcecab42f0917e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/js/2.d77100de.chunk.js"
   },
   {
-    "revision": "a26a4776854cb0a37594986804a537d8",
+    "revision": "a8d06a3f35b34264443ff50ae69a11bb",
     "url": "/index.html"
   }
 ];
