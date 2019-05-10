@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/Lora-Bold.eb2b8c98.ttf"
   },
   {
-    "revision": "ea0a7dc68773fba49c94",
-    "url": "/static/js/main.8fa5b5c5.chunk.js"
+    "revision": "2723c6fa031f12cc186b",
+    "url": "/static/js/main.b4f07cc8.chunk.js"
   },
   {
-    "revision": "940891f404f84a7749448af7acfa1528",
-    "url": "/static/media/user.940891f4.jpg"
+    "revision": "4caca27050368290f0bcecab42f0917e",
+    "url": "/static/media/user.4caca270.jpg"
   },
   {
     "revision": "2d3327c51d3f917c61b83fd04c232bd3",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/js/2.d77100de.chunk.js"
   },
   {
-    "revision": "860c7d57773aa24f2f1e5c7508719d0b",
+    "revision": "a26a4776854cb0a37594986804a537d8",
     "url": "/index.html"
   }
 ];

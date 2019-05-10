@@ -1,12 +1,12 @@
 {
-  "main.js": "/static/js/main.8fa5b5c5.chunk.js",
-  "main.js.map": "/static/js/main.8fa5b5c5.chunk.js.map",
+  "main.js": "/static/js/main.b4f07cc8.chunk.js",
+  "main.js.map": "/static/js/main.b4f07cc8.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.c5541365.js",
   "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
   "static/js/2.d77100de.chunk.js": "/static/js/2.d77100de.chunk.js",
   "static/js/2.d77100de.chunk.js.map": "/static/js/2.d77100de.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.2b10c298101167199825f4742ce475e6.js": "/precache-manifest.2b10c298101167199825f4742ce475e6.js",
+  "precache-manifest.47ce3620c2c85648413c222fd55eed88.js": "/precache-manifest.47ce3620c2c85648413c222fd55eed88.js",
   "service-worker.js": "/service-worker.js",
   "static/media/Geomanist-Bold.ttf": "/static/media/Geomanist-Bold.2d3327c5.ttf",
   "static/media/Geomanist-Regular.ttf": "/static/media/Geomanist-Regular.77cf7b2b.ttf",
@@ -14,5 +14,5 @@
   "static/media/Lora-BoldItalic.ttf": "/static/media/Lora-BoldItalic.04f84cd5.ttf",
   "static/media/Lora-Italic.ttf": "/static/media/Lora-Italic.d36745bb.ttf",
   "static/media/Lora-Regular.ttf": "/static/media/Lora-Regular.c87345ce.ttf",
-  "static/media/user.jpg": "/static/media/user.940891f4.jpg"
+  "static/media/user.jpg": "/static/media/user.4caca270.jpg"
 }
