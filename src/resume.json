@@ -8,11 +8,11 @@
     "website": "",
     "summary": "Développeur full-stack de plus de 8 ans d’expérience, passionné par l’écosystème JavaScript. Je mets mes compétences au service de l’humain. Aujourd’hui, j’aspire à travailler sur un produit innovant avec une équipe enthousiaste. Je suis très attaché à la conception centrée sur l’utilisateur et à la durabilité du code.",
     "location": {
-      "address": "23 Rue Des Belles Ecuelles",
-      "postalCode": "13002",
-      "city": "Marseille",
+      "address": "",
+      "postalCode": "37000",
+      "city": "Tours",
       "countryCode": "FR",
-      "region": "PACA"
+      "region": "‎Centre-Val de Loire"
     },
     "profiles": [
       {
@@ -28,6 +28,17 @@
     ]
   },
   "work": [
+    {
+      "company": "Web2vi",
+      "position": "Développeur Web Sénior",
+      "website": "",
+      "startDate": "1019-09-16",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Développement de la nouvelle version de la solution Web2vi."
+      ]
+    },
     {
       "company": "FadioIT",
       "position": "Développeur Web Sénior",
